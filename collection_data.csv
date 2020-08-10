@@ -1,0 +1,58 @@
+A new contact for 'Cookie' has been created.
+A new contact for 'Don' has been created.        
+
+        Contact information for Music, Don.      
+        Contact has 1 phone numbers and 2 labels.
+
+A new contact for 'Roosevelt' has been created.
+<class 'contact.Contact'>
+ Searching for Music
+
+        Contact information for Music, Don.
+        Contact has 1 phone numbers and 2 labels.
+
+Total contacts 3
+Total contacts without phone numers 1
+ total contacts without emails 2
+3
+
+        Contact information for Monster, Cookie.
+        Contact has 2 phone numbers and 2 labels.
+
+
+        Contact information for Music, Don.
+        Contact has 1 phone numbers and 2 labels.
+
+
+        Contact information for Franklin, Roosevelt.
+        Contact has 0 phone numbers and 0 labels.
+
+Fullname contact is Roosevelt Franklin
+Successful Saving 
+        Contact information for Franklin, Roosevelt.
+        Contact has 0 phone numbers and 0 labels.
+
+Reading Data ....
+Contacts info :
+Contact number 1 is
+        Contact information for Monster, Cookie.
+        Contact has 2 phone numbers and 2 labels.
+        Contact number 2 is
+        Contact information for Music, Don.
+        Contact has 1 phone numbers and 2 labels.
+        Contact number 3 is
+        Contact information for Franklin, Roosevelt.
+        Contact has 0 phone numbers and 0 labels.
+        Total count of loaded contacts as posible 3
+Please enter file namen and source of filetest_file.csv
+Exporting Successful...
+A new contact for 'jeorge' has been created.
+Error not include this jeorge contact
+ok...the contact Don included contact
+Successful Saving 
+        Contact information for Franklin, Roosevelt.
+        Contact has 0 phone numbers and 0 labels.
+
+Successful Saving
+        Contact information for Franklin, Roosevelt.
+        Contact has 0 phone numbers and 0 labels.
